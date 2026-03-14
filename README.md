@@ -136,7 +136,3 @@ Some insights extracted from the dataset:
 
 ---
 
-
-
-EMAN ABDELNABY
-Aspiring Data Engineer
