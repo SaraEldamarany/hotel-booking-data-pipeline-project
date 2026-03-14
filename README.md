@@ -6,7 +6,7 @@ The main objective of this project is to build an end-to-end data pipeline start
 
 The pipeline follows the Medallion Architecture:
 
-![ Medallion Architecture](building-data-pipelines-with-delta-lake-120823.png)
+![ Medallion Architecture](hotel-booking-data-pipeline-project-main/building-data-pipelines-with-delta-lake-120823.png)
 
 Raw Data → Bronze Layer → Silver Layer → Gold Layer
 
@@ -33,7 +33,7 @@ The final layer contains aggregated analytical data that can be used for reporti
 
 ## Project Structure
 
-![Project Structure](project_structure.png)
+![Project Structure](hotel-booking-data-pipeline-project-main/project_structure.png)
 
 ---
 Pipeline Workflow
